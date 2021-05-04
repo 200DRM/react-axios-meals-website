@@ -1,0 +1,10 @@
+img {
+  border-radius: 0.5rem;
+  margin: 2rem;
+  height: 20vh;
+  width: 20vw;
+}
+
+p {
+  font-weight: bold;
+}
